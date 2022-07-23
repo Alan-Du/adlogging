@@ -1,6 +1,8 @@
 # adlogging
 
-adlogging is a Python library for convert python print into formatted logs and keeps printing ability at the same time. It supports customized logging configuration, automatic trace of function calls from different objects and classes.
+adlogging is a Python library for convert python print into formatted logs and keeps printing ability at the same time. 
+It supports customized logging configuration, automatic trace of function calls from different objects and classes.
+For now, due to some library issue, it only works for MAC/LINUX machines, WINDOWS machine will not work.
 
 ## Installation
 
